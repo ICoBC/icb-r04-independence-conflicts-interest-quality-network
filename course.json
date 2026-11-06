@@ -1,0 +1,31 @@
+{
+  "course_id": "ICB-R04",
+  "repository": "icb-r04-independence-conflicts-interest-quality-network",
+  "repository_url": "https://github.com/ICoBC/icb-r04-independence-conflicts-interest-quality-network",
+  "title": "Independence and Conflicts of Interest in the Quality Network",
+  "subtitle": "The firewall between consulting and review.",
+  "version": "1.0.0",
+  "series": "Quality network",
+  "skill": "Quality assurance and accreditation",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-QUAL-L3-K",
+  "badge_name": "Independence and Conflicts of Interest in the Quality Network (Knowledge, L3)",
+  "hours": "1.5",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-r04/",
+  "parts": [
+    "About this course",
+    "Why independence matters",
+    "Typical conflicts",
+    "The procedure",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 12
+}
